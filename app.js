@@ -10,15 +10,6 @@ const bd_juego = [
         correcta:"1"
     },
     {
-        id:1,
-        pregunta:"LA CUESTA SE CUENTA MENOS CON GAMESA tiene como imagen a: ",
-        op0:"Yordi Rosado y Luis Miguel",
-        op1:"Luis Miguel y Martha Higareda",
-        op2:"Yordi Rosado y Martha Higareda",
-        op3:"Luis Miguel y Shakira",
-        correcta:"2"
-    },
-    {
         id:2,
         pregunta:"¿KACANG va a tener nueva imagen?",
         op0:"Verdadero",

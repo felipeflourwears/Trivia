@@ -10,6 +10,10 @@ body{
     background: #f0ebf8;
     padding-bottom: 50px;
     background-color: #0047ab;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 h1{
     text-align: center;
